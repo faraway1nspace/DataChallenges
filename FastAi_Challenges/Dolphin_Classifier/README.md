@@ -11,4 +11,10 @@ The RESNET model has learned low-level image features which are useful to learn 
 
 See the jupyter notebook file.
 
+## Conclusions
++ there is high confusion between bottlenose and humpbacks
++ snubies are well defined
++ some of the confused images are due to idiosyncratic corruptions to the images (watermarks, dead animal)
++ for this dataset, the pretrain deep features seemed better than learning deep features on a small dataset.
+
 Enjoy!
